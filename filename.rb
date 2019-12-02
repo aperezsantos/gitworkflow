@@ -1,2 +1,2 @@
-class Hello
+class Greeting
 end

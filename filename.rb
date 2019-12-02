@@ -1,2 +1,2 @@
-class Greeting
+class HeyBubba
 end
